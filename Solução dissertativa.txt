@@ -1,0 +1,15 @@
+Solução dissertativa:
+1)Leia #entrada
+sendo #entrada: o número que se deseja multiplicar por 9.
+
+Armazene #entrada
+
+2) #Processamento
+
+Subtrair n-1 e armazenar como 1º dígito (n1).
+Subtrair 10-n e armazenar como 2º dígito (n2).
+
+Execute a expressão (n1x10) +n2 e armazene o resultado.
+
+3) #Saída
+Apresente r (resultado final) e encerre o programa.
